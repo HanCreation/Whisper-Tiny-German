@@ -1,4 +1,4 @@
-# Whisper-Tiny-German Fine-Tuning Project
+# Whisper-Tiny-German Fine-Tuning Mini Project
 
 ## Overview
 This mini project focuses on fine-tuning the Whisper-Tiny model by OpenAI using the German dataset from Common Voice 11. Due to computational limitations, I experimented with two variants of the model:
