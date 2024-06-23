@@ -14,8 +14,8 @@ This mini project focuses on fine-tuning the Whisper-Tiny model using the German
 ## Model Availability
 You can find the pre-trained models on Hugging Face:
 
-- Whisper-Tiny-German V1 {https://huggingface.co/LiquAId/whisper-tiny-german-HanNeurAI}
-- Whisper-Tiny-German V2 {https://huggingface.co/LiquAId/whisper-tiny-german-V2-HanNeurAI}
+- Whisper-Tiny-German V1 {https://huggingface.co/LiquAId/whisper-tiny-german-HanNeurAI }
+- Whisper-Tiny-German V2 {https://huggingface.co/LiquAId/whisper-tiny-german-V2-HanNeurAI }
 
 Feel free to explore and use these models for your own projects!
 
