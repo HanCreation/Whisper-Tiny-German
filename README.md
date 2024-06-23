@@ -14,9 +14,9 @@ This mini project focuses on fine-tuning the Whisper-Tiny model by OpenAI using 
 Computer Spec = AMD Ryzen 9 5900HS, 8GB of RAM available, RTX 3060 Laptop GPU 6GB of VRAM
 
 ## Try Gradio Demo for the ASR and Translation (With gtranslate translator)
-You can try the model in this google colab below:
+You can try the model in this google colab: [Demo](https://colab.research.google.com/drive/1no5-2xGblr_NT3aPXFDbHxJ203LVafty?usp=sharing)
 
-[Demo](https://colab.research.google.com/drive/1no5-2xGblr_NT3aPXFDbHxJ203LVafty?usp=sharing)
+
 
 ## Model Availability
 You can find the pre-trained models on Hugging Face:
