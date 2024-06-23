@@ -1,7 +1,7 @@
 # Whisper-Tiny-German Fine-Tuning Project
 
 ## Overview
-This mini project focuses on fine-tuning the Whisper-Tiny model using the German dataset from Common Voice 11. Due to computational limitations, I experimented with two variants of the model:
+This mini project focuses on fine-tuning the Whisper-Tiny model by OpenAI using the German dataset from Common Voice 11. Due to computational limitations, I experimented with two variants of the model:
 
 1. **Model V1 (100k Train Data):**
    - Trained for 3 hours
@@ -14,10 +14,8 @@ This mini project focuses on fine-tuning the Whisper-Tiny model using the German
 ## Model Availability
 You can find the pre-trained models on Hugging Face:
 
-- Whisper-Tiny-German V1 {https://huggingface.co/LiquAId/whisper-tiny-german-HanNeurAI }
-- Whisper-Tiny-German V2 {https://huggingface.co/LiquAId/whisper-tiny-german-V2-HanNeurAI }
+- [Whisper-Tiny-German V1](https://huggingface.co/LiquAId/whisper-tiny-german-HanNeurAI)
+- [Whisper-Tiny-German V2](https://huggingface.co/LiquAId/whisper-tiny-german-V2-HanNeurAI)
 
-Feel free to explore and use these models for your own projects!
-
-
-
+*This project is for my mini school project
+Created and Trained by Han 2024
