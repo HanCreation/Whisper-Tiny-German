@@ -1,7 +1,7 @@
 # Whisper-Tiny-German Fine-Tuning Mini Project
 
 ## Overview
-This mini project focuses on fine-tuning the Whisper-Tiny model by OpenAI using the German dataset from Common Voice 11. Due to computational limitations, I experimented with two variants of the model:
+This mini project focuses on fine-tuning the Whisper-Tiny model by OpenAI using the German dataset from Common Voice 11. Before finetuning the model achieved 43.488% in the test dataset. Due to computational limitations, I experimented with two variants of the model:
 
 1. **Model V1 (100k Train Data):**
    - Trained for 5 hours with 4000 Steps
